@@ -1,0 +1,10 @@
+INSERT INTO productos (nombre, precio, create_at) values('CUADERNO',10,NOW());
+INSERT INTO productos (nombre, precio, create_at) values('LAPIZ',5,NOW());
+INSERT INTO productos (nombre, precio, create_at) values('GOMA',6,NOW());
+INSERT INTO productos (nombre, precio, create_at) values('PLUMA',7,NOW());
+INSERT INTO productos (nombre, precio, create_at) values('PLASTILINA',12,NOW());
+INSERT INTO productos (nombre, precio, create_at) values('CARTONCILLO',8,NOW());
+INSERT INTO productos (nombre, precio, create_at) values('CARTULINA',2,NOW());
+INSERT INTO productos (nombre, precio, create_at) values('SACAPUNTAS',3,NOW());
+INSERT INTO productos (nombre, precio, create_at) values('PAPEL CHINA',1,NOW());
+INSERT INTO productos (nombre, precio, create_at) values('PLUMON',15,NOW());
